@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905090489907",
+    "project_id": "mvp-reserva-de-nozes",
+    "storage_bucket": "mvp-reserva-de-nozes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905090489907:android:7737ea37cd7042578a0d46",
+        "android_client_info": {
+          "package_name": "com.example.mvp_financeiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhZcn1FghsLFlf9iILTw6vbrA2zLtvW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
